@@ -13,5 +13,4 @@ There are no next lines in the content ideal for curl request.
 
 Image;
 - `stormbyte/nginx-ip:latest`
-- `ghcr.io/stormbyte/nginx-ip:latest`
 
