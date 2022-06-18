@@ -1,6 +1,6 @@
 # nginx-ip
 
-[Docker hub](https://hub.docker.com/repository/docker/stormbyte/nginx-ip)
+[Docker hub](https://hub.docker.com/r/stormbyte/nginx-ip)
 
 [Github](https://github.com/stormbyte/docker-nginx-ip)
 
