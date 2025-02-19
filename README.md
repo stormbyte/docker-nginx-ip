@@ -23,3 +23,4 @@ Usefull for checking if the ip changes over time.
 Image;
 - `stormbyte/nginx-ip:latest`
 
+
