@@ -48,7 +48,7 @@ jobs:
         uses: docker/metadata-action@9ec57ed1fcdbf14dcef7dfbe97b2010124a938b7
         with:
           images: |
-            stormbyte/nginx-ip:latest
+            docker.io/stormbyte/nginx-ip:latest
       # ghcr.io/stormbyte/nginx-ip:latest
           
       - name: Build and push Docker images
